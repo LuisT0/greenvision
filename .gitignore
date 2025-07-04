@@ -1,0 +1,43 @@
+# Entorno virtual
+vision_ml/
+venv/
+.venv/
+.env/
+# Modelos y datos pesados (NO subir modelos entrenados ni datos crudos)
+models/greenvision_model/
+models/greenvision.h5
+models/greenvision_saved_model/
+data/
+data/raw/
+*.ckpt
+*.pth
+*.pb
+*.h5
+*.zip
+*.tar.gz
+*.log
+
+# Archivos de datasets e imágenes grandes
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.csv
+
+# Archivos temporales y de sistema
+.DS_Store
+.ipynb_checkpoints/
+
+# Node/Frontend (si usas frontend con Node.js)
+node_modules/
+dist/
+build/
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos python caché
+__pycache__/
+*.pyc

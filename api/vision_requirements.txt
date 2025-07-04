@@ -1,0 +1,71 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+python-multipart==0.0.6
+fastapi==0.115.13
+uvicorn==0.22.0
+requests==2.32.4
+tensorflow==2.15.0
+numpy==1.24.0
+pandas==2.0.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+plotly==5.18.0
+kaleido==0.2.1
+Pillow==10.4.0
+kaggle==1.5.16
+tqdm==4.65.0
+
+=======
+absl-py==2.3.0
+annotated-types==0.7.0
+anyio==4.9.0
+astunparse==1.6.3
+certifi==2025.6.15
+charset-normalizer==3.4.2
+click==8.1.8
+exceptiongroup==1.3.0
+=======
+
+python-multipart==0.0.6
+>>>>>>> bc96cbda (Proyecto GreenVision: notebooks, API, frontend y Space listos)
+fastapi==0.115.13
+uvicorn==0.22.0
+requests==2.32.4
+<<<<<<< HEAD
+rich==14.0.0
+six==1.17.0
+sniffio==1.3.1
+starlette==0.46.2
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.2
+tensorflow-io-gcs-filesystem==0.37.1
+tensorflow-macos==2.16.2
+tensorflow-metal==1.2.0
+termcolor==3.1.0
+typing-inspection==0.4.1
+typing_extensions==4.14.0
+tzdata==2025.2
+urllib3==2.5.0
+uvicorn==0.34.3
+uvloop==0.21.0
+watchfiles==1.1.0
+websockets==15.0.1
+Werkzeug==3.1.3
+wrapt==1.17.2
+zipp==3.23.0
+>>>>>>> 1eb10b28 (Mover greenvision.h5 dentro de api/models)
+=======
+tensorflow==2.15.0
+numpy==1.24.0
+pandas==2.0.3
+scikit-learn==1.2.2
+matplotlib==3.7.1
+plotly==5.18.0
+kaleido==0.2.1
+Pillow==10.4.0
+kaggle==1.5.16
+tqdm==4.65.0
+
+>>>>>>> bc96cbda (Proyecto GreenVision: notebooks, API, frontend y Space listos)
