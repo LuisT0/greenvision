@@ -18,12 +18,12 @@ data/raw/
 *.log
 
 # Archivos de datasets e imágenes grandes
-*.jpg
-*.jpeg
-*.png
-*.mp4
-*.avi
-*.csv
+# *.jpg
+# *.jpeg
+# *.png
+# *.mp4
+# *.avi
+# *.csv
 
 # Archivos temporales y de sistema
 .DS_Store
