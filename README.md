@@ -12,7 +12,6 @@ Todos los archivos necesarios para el despliegue y la instalación de dependenci
 - Clasificación de residuos en categorías como reciclable, no reciclable, orgánico, etc.
 - API lista para producción, compatible con despliegue en contenedores Docker.
 - Procesamiento de imágenes usando aprendizaje automático y visión computacional.
-- Integración sencilla con otros sistemas mediante endpoints HTTP.
 
 ## Requisitos
 
