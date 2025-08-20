@@ -20,6 +20,8 @@ _Interfaz principal de la API_
 ![Ejemplo de predicción](docs/Predicción.png)
 _Resultado de una clasificación en formato JSON_
 
+*   **Link directo a la app:** [Greenvision](https://huggingface.co/spaces/LuisTo97/GreenVision-Docker)
+
 ## ✨ Características Clave
 
 *   **Modelo de Clasificación:** Utiliza técnicas de Deep Learning para distinguir entre múltiples categorías de residuos con alta precisión.
